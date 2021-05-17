@@ -1,2 +1,2 @@
 # ismb17
- Repositório contendo os arquivos de simulação usados para o artigo submetido no ISMB17
+ Repositório para os arquivos em Matlab do artigo submetido ao ISMB17
